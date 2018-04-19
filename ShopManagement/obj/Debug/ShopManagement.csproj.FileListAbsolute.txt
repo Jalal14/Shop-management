@@ -1,0 +1,87 @@
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.dll
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AdminForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AllProductsForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.EditInformationForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LoginForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.PasswordRecoverForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.SalesmanForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.SignUpForm.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.Cache
+C:\Users\jalal\Google Drive\C#\Project\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.NotificationForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe.config
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.exe
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.pdb
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.pdb
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Design.dll
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.dll
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csprojResolveAssemblyReference.cache
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AdminForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AllProductsForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.EditInformationForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LoginForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.NotificationForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.PasswordRecoverForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.SalesmanForm.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.Cache
+F:\Study\8th sem\C#\Final\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.ManagerForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\Shop.mdf
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\Shop_log.ldf
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.dll
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AdminForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AllProductsForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.ChangePasswordForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.EditInformationForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LoginForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.NotificationForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.PasswordRecoverForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.SalesmanForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.ManagerForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.TransactionForm.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.Cache
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.pdb
+C:\Users\jalal\Desktop\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LimitedStockForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\Shop.mdf
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\Shop_log.ldf
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.dll
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AdminForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.AllProductsForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.ChangePasswordForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.EditInformationForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LimitedStockForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.LoginForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.NotificationForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.PasswordRecoverForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.SalesmanForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.ManagerForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.GUI.TransactionForm.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.Properties.Resources.resources
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.Cache
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\hollow\Google Drive\Projects\ShopManagementC#\ShopManagementApplication\ShopManagement\obj\Debug\ShopManagement.pdb
